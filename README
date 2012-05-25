@@ -1,0 +1,8 @@
+/* README */
+main1.lsp is a experimental program of the
+scripting languege using newLISP as its parent.
+ 
+/* usage */
+1. place wrt.txt to the a directory and set that
+path to the line 111 of main1.lsp
+2. open main1.lsp from newLISP-GS and run
